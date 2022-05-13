@@ -1,0 +1,55 @@
+body {background-color: #000;
+    color: red;
+
+}
+
+#logobar {text-align: center;
+}
+
+#navbar {text-align: center;}
+
+#statbar {
+    margin: auto;
+    max-width: fit-content;
+    height: fit-content;
+    background-color: grey;
+    text-align: center;
+    border: #808080, 1px;
+}
+div{
+    border: 1px;
+    border-style: dotted;
+    border-color: #808080;
+}
+#gamescreen {
+    display: flex;
+    height: 310px;
+    
+}
+
+#topstats{
+    display:flex;
+}
+
+#pcactions{
+    margin:auto;
+    max-width:fit-content;
+}
+#inventory{
+    flex: 1;
+    
+}
+
+#mainscreen{
+    flex: 3;
+
+}
+
+#pcjournal{
+    flex: 1;
+    width: 150px;
+}
+
+#studio{
+    text-align: center;
+}
