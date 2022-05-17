@@ -73,3 +73,21 @@ div{
     left: 600px;
     
 }
+
+#emadd #flname{
+    padding-left: 30px;
+}
+
+/*#textmessage {
+    height: 100px;
+    width: auto;
+}*/
+/*input[type=text] {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }*/
