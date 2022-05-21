@@ -74,6 +74,11 @@ div{
     
 }
 
+#gamestart{
+    margin: 0 auto;
+    display: block;
+}
+
 #emadd #flname{
     padding-left: 30px;
 }
